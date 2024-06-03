@@ -1,1 +1,1 @@
-# Drawing-Panel-Project
+This is my final project for my CS&141 project where I had to use the Drawing Panel class to make a piece of art using inspiration from pixel art of the Pokemon Blaziken. I used the project to make a small Blaziken sprite using arrays, loops, and the drawing panel itself to draw the pixel art based off the array I used.
